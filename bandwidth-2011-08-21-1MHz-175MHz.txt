@@ -1,0 +1,3 @@
+Rigol DS1052E #DS1ED131605206
+Rohde & Schwarz SMY01
+0dBm (224mV) output
